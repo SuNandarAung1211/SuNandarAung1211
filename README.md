@@ -4,7 +4,7 @@ I'm a coder who loves to write code and read books. Here's a snapshot of me:
 
 - 💻 Passionate about coding.
 - 📚 Avid reader.
-- 🌍 Exploring web and mobile development.
+- 🌍 Exploring web development.
 
 ### About Me:
 
